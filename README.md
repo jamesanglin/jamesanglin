@@ -67,7 +67,7 @@ technologies. I am deeply passionate about leading teams to deliver robust, scal
 
 #### Senior Software Engineer
 
-01/2022 – present
+01/2022 – Present
 
 - Engineered responsive front-end applications using React.js, optimizing for cross-device compatibility and user experience
 - Leveraged GraphQL for dynamic data retrieval, streamlining backend-front-end communication
